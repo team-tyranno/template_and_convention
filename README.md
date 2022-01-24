@@ -21,6 +21,9 @@
   </p>
 </div>
 
+<br>
+
+<br>
 
 <details>
   <summary>Table of Contents</summary>
@@ -39,6 +42,9 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
+
+<br>
+<br>
 
 <!--팀원 소개-->
 ## 팀원 소개
@@ -65,6 +71,10 @@
 </tr>
 </table>
 
+<br>
+<hr>
+<br>
+
 <!-- 과제 소개 -->
 ## 과제 소개
 
@@ -81,6 +91,10 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br>
+<hr>
+<br>
+
 <!-- 구현한 기능 -->
 ## 구현한 기능
 
@@ -95,6 +109,10 @@
   - [x] 세부기능 3-2
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+<hr>
+<br>
 
 <!-- 설치 및 실행 -->
 ## 설치 및 실행
@@ -125,6 +143,10 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br>
+<hr>
+<br>
+
 <!-- 프로젝트 구조 -->
 ## 프로젝트 구조
 
@@ -142,6 +164,10 @@
 ``` 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+<hr>
+<br>
 
 <!-- LICENSE -->
 ## License
