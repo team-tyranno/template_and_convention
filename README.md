@@ -21,10 +21,14 @@
   </p>
 </div>
 
+<br>
+
+<br>
 
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#팀원-소개">팀원 소개</a></li> 
     <li><a href="#과제-소개">과제 소개</a></li>
     <li><a href="#구현한-기능">구현한 기능</a></li>
     <li>
@@ -38,6 +42,38 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
+
+<br>
+<br>
+
+<!--팀원 소개-->
+## 팀원 소개
+
+<table>
+<tr>
+<td align="center"><a href="https://github.com/gml9812"><img src="https://avatars.githubusercontent.com/u/28294925?v=4" width="150px" /></a></td>
+<td align="center"><a href="https://github.com/seoysauce"><img src="https://avatars.githubusercontent.com/u/65898861?v=4" width="150px" /></a></td>
+<td align="center"><a href="https://github.com/Yummy-sk"><img src="https://avatars.githubusercontent.com/u/60822846?v=4" width="150px" /></a></td>
+<td align="center"><a href="https://github.com/Yummy-sk"><img src="https://user-images.githubusercontent.com/70435257/146951725-5222c696-e5c9-45ec-b097-9d39213f3a6b.png" width="150px" /></a></td>
+
+</tr>
+<tr>
+<td align="center"><b>👑 윤희준 (팀장)</b></td>
+<td align="center"><b>정서영</b></td>
+<td align="center"><b>염싱권</b></td>
+<td align="center"><b>김재원</b></td>
+</tr>
+<tr>
+<td align="center"><b>FE Developer</b></td>
+<td align="center"><b>FE Developer</b></td>
+<td align="center"><b>FE Developer</b></td>
+<td align="center"><b>FE Developer</b></td>
+</tr>
+</table>
+
+<br>
+<hr>
+<br>
 
 <!-- 과제 소개 -->
 ## 과제 소개
@@ -55,6 +91,10 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br>
+<hr>
+<br>
+
 <!-- 구현한 기능 -->
 ## 구현한 기능
 
@@ -69,6 +109,10 @@
   - [x] 세부기능 3-2
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+<hr>
+<br>
 
 <!-- 설치 및 실행 -->
 ## 설치 및 실행
@@ -99,6 +143,10 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<br>
+<hr>
+<br>
+
 <!-- 프로젝트 구조 -->
 ## 프로젝트 구조
 
@@ -116,6 +164,10 @@
 ``` 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<br>
+<hr>
+<br>
 
 <!-- LICENSE -->
 ## License
