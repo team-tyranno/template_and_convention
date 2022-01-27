@@ -18,18 +18,10 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest",
-      "prettier",
-      "airbnb"
-    ],
-    "plugins": [
-      "prettier"
+      "airbnb",
+      "plugin:prettier/recommended"
     ],
     "rules": {
-      "prettier/prettier": [
-        "error"
-      ],
       "import/prefer-default-export": "off"
     }
   },
