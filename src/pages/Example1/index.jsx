@@ -1,4 +1,10 @@
-import { getExchangeRate } from './utils';
+import { someUtilFunc1 } from 'util';
+
+ExchangeResultBox.propTypes = {
+  from: PropTypes.string.isRequired,
+  to: PropTypes.string.isRequired,
+  amount: PropTypes.number.isRequired,
+};
 
 export function ExchangeResultBox({ from, to, amount }) {
   const timestamp = getExchangeRate('timestamp');
@@ -13,9 +19,3 @@ export function ExchangeResultBox({ from, to, amount }) {
     </ResultBox>
   );
 }
-
-ExchangeResultBox.propTypes = {
-  from: PropTypes.string.isRequired,
-  to: PropTypes.string.isRequired,
-  amount: PropTypes.number.isRequired,
-};
