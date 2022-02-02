@@ -1,1 +1,9 @@
-{}
+{
+    "baseUrl" : "http://127.0.0.1:8080",
+    "testFiles" : [
+      "lotto-purchase-amount.spec.js",
+      "purchased-lottos.spec.js",
+      "set-winning-numbers.spec.js",
+      "show-lotto-result.spec.js"
+    ]
+  }
